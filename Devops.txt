@@ -1,0 +1,997 @@
+Prepare some notes about ur family whatever might be the job-profile status , one can expect questions such as these at least in the HR round
+260855136946
+How to handle Merge conflicts in Git
+Adv of Forking Workflow over other Git workflows
+When do we use Git rebase instead of git merge
+Explain the concept of sudo in Linux 
+What is Nagios Log Server
+Benefits of NoSQL
+What are adoptions of Devops in Industry
+How would you explain IaC as a service
+How is Chef used as a Cm Tool
+Why are Configuration Mangement Processes&Tools important 
+How to launch a browser using WebDriver
+Are there any technichal Challenges with Selenium
+driver.close() vs driver.quite()
+How to secure Jenkins
+Adhock ?
+Can you write the syntex for building a docker image
+									PROJECT
+
+Convert given currencies into Rupaye first then into whichever currency is desired by the user.	
+
+WATERFAll (Archi(Monolith) Packaging Infra
+Agile  Monolith----N-tier Decoupled ----VM--------Hosted contains WALL OF CONFUSION(TESTERS DON'T know WHAT'S HAPPENING IN OPERATIONS ENVIRONMENT VICE VERSA)
+DevOps  Microservices Containers(Packaging) Cloud(Infra) 
+	Development Integration with Operations .Cultural change in the way we think and operate.An all rounder as seen in Cricket who can perform everything(Prod support think)
+		thereby implementing agility.DevOps all about.Reliability,Reduced timeto recover Efficiency Lower risk Shorter Dev Cycle 
+Logging 
+Before Cloud computing : Focus needs to be on infra management .Tsunami , tremendous amount of data.Files Videos music E-books Pod casts via applications.Pay as you go rent and too 
+payment is for Gear system can be different but Honda splendar is almost the same as Pulsar Bajaj
+
+AWS stands for a secure 
+
+Lean Software Development is an approach towards software development which aims at optimizing the development resources in order to achieve our end product/service in a minimum 
+viable manner ;often referred to as MVProduct strategy.It is iterative in nature and focuses at releasing a bare-minimum version of the product to the market quickly in order to let the 
+development team recieve feedBack from product users.On the basis of this feedback developers iterate over the development phases in attempt to add,remove or update features from the 
+MVP to offer what's the best for the customers.It eliminates wastes like 
+hand-offs,waiting,over-production,over-transportation,under-utilization of resources,defects,(Muda)+Overburdening of both system&people(Muri) & smoothing of unevenness(mura)Increase value
+by removing anything that does'nt have any value.
+
+DISCOVER DESIGN & DEVELOP
+Agile on the other hand is a FRAMEWORK for multiple approaches to project management however,used especially for software development.Like the scrum approach where developers
+iterate over application features in a twa-week period called sprints.While at the beginning of each such sprint input is taken in the form of feedback from client
+at the end an updated version of the product is released along with deployment to the production
+
+WE COME ACROSS INVENTIONS WHEN WE COME ACROSS PROBLEMS AND OBSTACKLES . 
+Does DevOps bring automation to Agile.It helps rapid deployment of code into the productions environment.Rapid software deliveries owes to Automation
+Agile operates with parallel execution in an incremental manner .All teams are in parallel action .Absolutely zero dependency
+
+Waterfall Model unidirectional linear Software development life cycle 
+Requirements Analysis(Technology component decision Database/coding language) 
+Design(Modules DataFlowD/UI/UX) 
+Coding 
+Testing 
+Acceptance/
+Delivery and Maintenance
+Issues once a phase has been considered and has been processed ; it is freezed as this apprach doesn't encourage the client to come up with new requirements
+	It is difficult to estimate time and cost for each phase of the development process
+	No backtracking
+	Not suitable for the projects where requirements are at a moderate to high risk of changing
+
+HOW TO DEVELOP THE FAITH ON THE WEBSITE HOW TO DEVELOP THIS CONFIDENCE , I GOT MY ANSWERS FROM MY SYSTEM DESIGN STUDIES 
+
+IF DEVOPS IS AN IDEA THEN drawbacks of the AGILE framework is what that INSPIRED THIS IDEA.DEVOPS is the solution to the drawbacks/dis THE AGILE APPROACH OF SOFTWARE DEVELOPEMENT.
+AN ITERATIVE,INCREMENTAL APPROACH WHICH OFFERS THE MANAGEMENT OF DESIGN,BUILD&DEPLOYMENT ACTIVITIES IN A MANNER SUCH THAT IT COULD AIM AT 
+PRODUCING SOLUTIONS IN A HIGLY INTERACTIVE AND FLEXIBLE MANNER.  
+
+Both Lean and Agile approaches the development team require feedback from bussiness stake holders | end users.Which in turn creates a virtual wall b/t the Team developing the software and 
+the team operating it at Productions environment ; which is just not the case with DevOps as it lays emphasis on proper collaboration b/t the Dev team and the Operations.Such that all the 
+teams are all involved
+
+Agile and Lean approaches iterate over the stages of Development based upon the end-user feedBack BUT keeping strict sprints or scheduling releases may prevent ON-TIME deployment of  features
+in response to problems which affect the performence at the production Env.This implies that the Operations team followed by the end-users might will have to wait for the problem to get resolved.
+DEVOPS on the other hand seeks to maintain a 24/7 capability to continiously monitor&respond too for any potential change 
+which may cause negative impact on the performance in the production environment.
+
+All Ops: That is to say all teams participate in operating the software.DevOps operates with the team work of the Devlepment Team and the Operations Team.Therefore if some atrocity or 
+problem arises at the production Env then both the DevTeam and the Ops Team would ship in 2 address the issue.This may not happen in case of Agile&Lean
+
+							DevOps vs Agile(Edurekha BookMark)
+
+DevOps is the software development approach that was designed for the worst case scenario . With respect to the commits we get to see on our local repository followed by pushing it up to the remote repo , U C this 
+will happen if there constant changes being made to the source code cuase of the unforeseen demands set by the client or due to some component dependencies .
+
+It is a combination of cultural philosophies,practises of these philosophies& tools that increase an organization's ability to deliver applications&services at a high velocity.I am still saying velocity not speed.
+Anyways as the name itself suggest DevOps is a set of practises that combines software Development(IT) &software Operationsjust for imparting momentum to software development Life Cycle .It is the philosophy that serves as 
+the bridge between the Dev team and the Operations team such that ensuring that both of them work for a common goal so that everyone of'em wins
+It is the Culture which ensures that the Development team interacts with the Operations team in a manner that it breaks down the gap b/t the two with a clear focus on their individual roles and 
+responsibilites.If both the teams will work for a common goal everyone will succeed.Which is just what a DevOps engineer does that is to serve as a bridge between Dev or Development Team&Ops |Opera
+thereby increasing every single possibility of collaboration and cooperation between the teams.
+DevOps also aims at removing manual effort at as many situations as possible in order to accelerate the overall process.This is where the automation aspect of Devops comes into picture.EVERYTHING ALWAYS
+STAYS ALIGHNED WITH DEVOPS CULTURE.Even Automation was brought about just to support the
+DevOps culture yes it was in the form of revision control,Continious Integration,Configuration Management.With automated feedbacks between the two teams thereby increasing the overall confidence in 
+successfully delivering a solution
+Hence more space for automation means less space for manual tasks.
+So a Devops Engineer should be comfortable with managing packages&operating with 3rd party libraries&API's to integrate with CSPs
+So avoid OOPs web Frameworks or anyother non-essential(w.r.2 Devops) lib.
+
+
+If you all remember i used the term velocity while defining DevOps instead of speed.Here's the reason why 
+The devops lifecycle consists of eights stages and is represented by an inifinity symbol which symbolizez that the loop is constantly being iterated.The shape of this Cycle which defines the direction of 
+SoftwareDevelopment is a signifact characteristic of DevOps which compels me to highlight it up in the form velocity not speed.Neverthless the symbol for DevOps lifecycle is presented as an enfinity symbol cause the
+cycle is continious and loop is being constantly iterated.
+The loop consists of two major sections with four stages each symbolizing Continious Integration and Continious Delivery respectively.While Continious Integration helps in ensuring the high quality of our code base in terms of 
+error-lessness there by keeping it ready for deployment at all times , the latter i.e. Continious Delivery helps in delivering that artifact which was initially fetched from an artifact reposiroty for testing purpose is now delivered into
+the production enironment where this bugfree artifact runs live for the end-users to access 
+section/phase and the Operations section. 
+STAGES OF DEVEOPS LIFECYCLE : 
+Cont  Plan  
+Cont  Code
+Cont  Build
+Cont  Test
+Cont  Release
+Cont  Deployment
+Cont  Operate
+Cont Monitor
+Now if you'd ask me what DevOps mean to me then i would say that DevOps is a solution.It is the name of the solution to drawbacks which were faced by the decendants of devOps
+or by the earilier approaches towards software development
+
+Developers work in a local environment and commit their code to shared repositories daily.This code can be combined/integrated with some other developer's code or existing code.This new code is tested
+along with the existing code in unit,integrated&system testing manner to check for bugs.This approach helps in avoiding those long waiting which the developers had to spend for getting the test results.This 
+is because the entire code for a given applicatoin was required to be developed at the first place before even it could be shifted to unit Testing stage.Plus the spotting bugs in a huge piece of code was another problem 
+CD is nothing but a response to any change made to the source code.That is to say every push made to the remote repository would initiate a fresh process of Build,Test&Release.
+Now that every such cycle has proper testing of the fresh chunk of code therefore it ensures that the artifact at the production's end will not have any un-intended features
+
+Our prior most task is to pull the our source code from  a given repository into the environment which could build it into an artifact.For this we need a job in our jenkins software 
+which would pull the code AND the Jenkinsfile from my Github repository and push into the development environment which possess a build tool capable of building/packaging source code written java
+in our case it is Maven.Plus in real time it could be possible that cuase of the changing demands and requirements of the client we may have to push new code to the repository followed
+by a build for every new commit.That is to say that a fresh buildding process should be triggered/invoked whenever a new commit is made to the remote repository of VCS as and when 
+needed.therefore apart from a tool which could manage different versions of the same piece of code i also needed a tool which could manage different versions of artifacts created from the 
+source code changed from commits .In my case which is Nexus.And in the first job itself i mentioned the nexus' server IP in the properties section of the First job 
+therefore once the artifact is created it would be pushed into the nexus repository then and there this is what the first job does 
+
+					UAT  ---------to---------->Prod Env
+
+https://github.com/YogeshDharya/sampleR.git
+YogeshDharya-patch-1
+IInd Job : 
+
+Top 2 Bottom : Complexity for management of resources of the infrastructure increases whereas 
+IaaS refers to a set of Network , compute and storage resources which have been virtualized by a vendor such that they can be easily accessed AND configured by a user.
+        Identity/Persona for PaaS is a system/IT admin
+	Considering the example of a car of choice one would consider characterisitics like performance , colour , fuel type and the person LEASING the car drives it too.Expenses
+	would not only include the Gas Money but the maintenence too.Leese deed is usually 12 months or longer.Price is fixed?
+PaaS takes advantage of all the virtalized resources from IaaS and simply abstracts them away so that their management could be avoided.User for PaaS is usually a Devloper
+	PaaS is like renting a car where tenant may or may not bother about the specifications much but it is ensured that the managment of the car is not the tenant's but 
+	instead is the owner's responsibility a definite period of time which may be either long or short.Will its price change with time , months , weeks?
+SoaS is that service which provides a software which is not required to be installed on our local machines or is required to be manually updated.Such softwares/applications delivered 
+(Multi-Tenant	over the internet via a subscription payment modeluser can be anyone even 
+	the general public which watching YT videos are using a SaaS delivery model of services.Its usually subscription based instead of one-time license payment model
+	SaaS is like having a car as taxi , where your not the one who drives u do not mind what the fuel type is what the colour is nor do you pay for the gas cause its all 
+	included in the price at the end of the journey.
+https://github.com/YogeshDharya/sampleR.git
+*/YogeshDharya-patch-1
+WaterFall model : An SDLC model which breaks down the various activities of into linear sequential phases which progress in a unidirectional fashion.When i say 
+unidirectional as the name suggests downards one won't get to see any loops which symbolises the WaterFall Model's non/least iterative nature. 
+Requirement Analysis&Definition
+System&Software Design
+Implementation&Unit Testing
+Integration&System Testing
+Operations&Maintenance
+Devops is nothing but a Software devlopment life cycle model?approach.Just like any other SDLC model we get to find various stages involved in Devops too such as 
+Plan->code->build->test->Deploy->Operate->Monitor.But the difference is that these stages contiue to iterate continously throughout the development life cycle of the 
+product.Following are the stages of Devops :
+Version Control : When a group of developers write the code for the same piece of software followed by committing it to some source code environment.If a developer A 
+Maj 1.4.2	writes the code for some particular feature then his code will look different from a developerB whose working on some different feature.Therefore at 
+Min	times it becomes difficult to pin point which particular developer's code's commit is causing the error and how should one revert back to the previos errorless 
+Patch	stage.To resolve this issue a source code management system or version control comes into picture.
+Git  is a version control(VCSystem)tool which serves as a repository for pushing codes.
+ The source code is like the crown , jewels - a precious asset whose value must be protected.
+Git is a mature , actively maintained open source tool originally developed in 2005 by Linus Torvalds , the famous creator of the Linux operating system kernel. 
+Centralized(outdated)
+Distributed Version Controlling(Git)
+Git is one such Source Code Management system which offers Version Control as well.That is to say that it can track any changes made to the file it contains Plus it can
+also revert a given file back to some previous committed/changed state.															          
+ALSO ONE CAN HAVE INFORMATION ABOUT THE WHY/WHAT/WHEN AND WHO made changes made to a file by taking SNAPSHOTS .One can observe the previous 
+snapshots and also can restore our files and code to some old state too.
+Git imparts a sense of flexibility to the developers so that they could work without having this fear of making mistakes cause there is always a possibility to roll_back
+Git is like the Social media handle where we can upload and store our projects .Public if the remote repository has been made pubic
+Types of files in Git : untracked(ones in the laptop) -----> stagedF(Staging area which is virtual)------> committedF(local repositoy)
+anonymous
+yogesh Yogesh Dharya admin my id
+to check status -----git status fileName untracked(default)////which might would have showed an error if a git LOCAL repository haven't got initialized. 
+git config --global user.name "yogesh18"
+git config --global user.email "yogeshdharya@gmial.com"   should be done once
+git status
+git add fileName(case sensi) || file1 file2 file3-----------for moving THE SNAPSHOTSto the staging area 
+or git add . all the files' SNAPSHOTS in the working directory to the staging area
+now git status  
+NEW 
+if attemting to add it to the staging env plus commiting it to the local repository use &&
+git add fileName && commit -m "A+C"
+one less file in untracked while the one in staging area is green in colours
+For affirming the Git software that the mentioned folder is a working directory is by git init cmd which is run in the gitbash terminal
+both the staging and local repository are all virtual architectures constructed and managed by the Git software
+cmd to move a file from staging area to the local repository along with a msg affirming the same
+COMMITS ARE LOGICAL MILE-STONES.THEY ARE NOTHING BUT SOURCE CODE FILES SHIFTED TO THE LOCAL GIT REPOSITORY FOR source code management while enjoying VERSION CONTROL offered.
+			MODULARITY	
+If the interview was done on a zoom,GoogleMeet,etc; then as seen in case of coding interviews where we need to share our screen for the code.Do we need to share our screen for the devops project made by us?As in 
+wherever it is deployed AWS Github ,etc.
+
+One either fixes the bugs present in the software or brings some actual update or changes to the software.On top of that everything needs to be done manually.Devops helps in bringing automation wherever possible
+Dev Env : is the env where developers produce the code of our application.This env can be a VM/container or may be some local directory of some end-device. DB instances , web -server instances ,etc ,Or may be some 
+	fully deployed cloud environment where developers can deploy their code apart from developing it; into some testing environment
+QA : since there are really strict compliance rules in the preProd therefore there should be an env which could be used for testing the app apart in a much flexible manner .The purpose of these testing operations is to 
+     ensure that the application behaves the way the developers expect to .
+Staging Area == PreProduction Environment is required to behave almost like the production environment because at times bugs come into picture from the prod env. ' . it is required for the staging env to be similar to
+	the Prod env in terms of compliance rules for accessing the application .this is the last stage where we could have the last oppurtuinity to fix bugs which might woluld have 
+arised in the code down the line .So that a sense of reliability , COHESIVE , 
+Production Env : is the place where customers interact with the application.The application is exposed to the customers while keeping certain compliance in mind.This is therefore usually the most restricted envionment
+	in the SDLC model. 
+NANO ECLIPSE INCOMPATIBLE WITH LATEST JDK
+
+/home/ubuntu/.jenkins/
+after changing usesecurity credentials into false located in the config.xml file inside the jenkins directory
+java -jar jenkins.war
+then IP:8080 manage jenkins/configure global security/own database apply save
+Mange users configure user change the password.
+
+git commit -m "first commit" ADDS UR STAGED SNAPSHOTS PERMANENTLY IN UR LOCAL REPO Aleading to an output of git status showing on branch master nothing to commit,working tree is clean.
+	Also one can specify the specific file in the staging area which the user wishes to commit into the local repository after the commit msg.	ALSO	
+ HOWEVER MAKING CHANGES TO COMMITTED FILE MAY CAUSE A NEW COMMIT LEADING THE FILE BACK TO UNTRACKED STATUS FROM THERE IT IS 
+----------UNMODIFIED---EDITTED---->MODIFIED -------->STAGED 
+
+git stash, which makes a temporary, local save of your code
+git reset, which lets you tidy up your code before doing a commit
+git bisect, a function that allows you to hunt out bad commits
+git squash, which allows you to combine your commits
+
+git rebase, which allows for applying changes from one branch onto another
+advanced git url s https://www.toptal.com/git/the-advanced-git-guide												Asssassin 2:11 pm 21Sept22
+of SHOOT git 		https://ohshitgit.com/
+why https over ssh for git ?
+https://docs.google.com/document/d/1NQ6cU_uuN8c5jjHFpcVhE2bvh19zzuz-baPozY82nU0/edit#heading=h.pxtu1s4vsngh
+
+git remote add origin url // git remote -v gives origin as output
+git pull origin master // for fetching changes made to some file by some differen developer who shares the same branch with u(cause both of us are working in the exact same funcitonality) Cause these may not
+		reflect in the data that ur device gains from the Git clone cmd
+Also git may throw the error that u should pull file(s) before pushing them up since u updated the file which as such was updated in the repo too (+ Updates were rejected because the remote contains work that you do)
+git push origin master        used for publishing the local commits
+			GIT VS GITHUB    git is CLI whereas Github is GUI
+
+git remote -v                    returns origin / CENTRAL REPOSITORY?? REMORTE REPO URL 
+NEW
+also -u in  git push -u origin master // stands for UPSTREAM MARKS and it marks the mentioned origin as the defualt remote repository thereby saving u the efforts to specify the arguments in the future
+however MASTER ISN'T NECESARRY it can be any branch 
+git clone <url> -vvv//?
+cd remoteRepository
+git checkout branchName
+//NEW both up and down
+git checkout -b branchName // creates a new branch with the mentioned name 
+git fetch/pull --all -vvv
+However		       But when some ammendments are made to committed file then it returns back to its untracked status.Again it is required to move the staging area.Provided
+these are local Repository that this ammendmend is not a huge milestone i.e. not a huge change then we can commit this file with this cmd : git commit --amend file.txt -m "msg"
+Remote	Also every time we modify a given committed file it gets untracked BUT when similar files exist betweent two branches which are made to merge together then file conflict
+RepoSi	occurrs where upon merging; along with this new commit we get to see msgs indicating content of the file respective to the branches ; prompting to us delete or keep the highlighted
+GitHub/Bucket/gitLab/BitBucket/aws codecommit/source forge where we get to see the entire source code of a software.Consider it as a centeralized location sections of the file.First we need to link our
+	local repository with some remote repository like GitHub.Then after we are required to upload our source code following some command  displayed at the remote repository. 
+	git branch -d brName
+	git commit --amend -m "DOT again not for some specific file.Now changes have been made which aren't a mile stone yet.Won't create much of any differnce"
+otherwise	git merge brName (when contains indentical files then resolve it at the corresponding section of the file as highlighted by the error msg) > merging
+	git reset --hard cmtID 
+
+-- : STAR: -- repository can contain only pure source codes not the machine generated compiled files(as seen in the case of .java --compilation--> .class(<-not allowed inside repository)
+	. ' . one needs to create a hidden files which specifies all the files which should be ignored during any kind of staging or committing activity 
+	vi .gitignore>insert>*.class(respective of the extention)>esc>:wq--->git status no. of files decreased with one extra hidden file being displayed which won't 
+	intervene the effective staging/committing
+git log --oneline||git log ------> to chech the commit history because git has its individual distinct id(latest commit is referred to as HEAD COMMIT) 
+-- : STAR :-- commit history of the previous branches get copied to the child branches as well upon being checkedout(||checked into logically)
+	   However nothing similar is noticed in case of the parent master branch(child2existingParentAllowed), that is to say git log --oneline will show commit history of 
+B  U  T	 master alone
+	 if the developers are prompted to discard the newly demanded functionality/task and the previously created branch should now be combined with the old req
+	then the same git log command will show the commit history of the master along with the child branch because merging of the two branches was performed
+	also the merge branch 'name' will be displayed as the latest/Head commit which serves the purpose of enabling ROLL_BACKs(UnMerge).Can we perform 
+	merging in master branch alone or at any branch which is higher in the herarchy? 
+git merge branchName -----> git log --oneline shows history in a linear fashion from latest to oldest while keeping both the branches in consideration
+upon merging the previously existing branch would still exist which needs to be dropped manually.
+branching : refers to the ability to have multiple codes in respective distinct branches corresponding to some specific functionality.This helps the development team in 
+	creating the code in an uncluttered way. This helps in keeping the code files in an organized manner.This enhances repository managementAlso it facilitates 
+	the purpose of autmation by pushing an entire branch of codes into
+	production environment by means of Jenkins.All the files upon bieng committed belong to the default branch of git which is the MASTER branch.Upon 
+git branch brName	coming across a functionality requirement from lets say client one can create a new branch specific to the need where new files can be committed
+git branch		to check branch list(star indicates the current branch) This is done to ensure segregation is being performed for the repective aspect of concern of the 
+		correspoding project such that		they could operate independently via an independent environment 
+git checkout brName		like cd -> some different branch.(then touch f1-----n times -> git add . all files -> git commit -m "All into repo)->NowIn2branchName 
+ 																
+LINTING refers to the process of checking a given piece of code for any programmatic error.Linters help in reducing bugs from the SC , thereby increasing its quality.It also 
+helps in reducing costs as it helps in spotting bugs beforehand and also accelrates development																        A
+SoftwareTesting is the process of validating the correctness, completeness and quality of a developed compute software.This process consists of a set of activities which
+are performed in intent to find errors in the software so that they could be re-actified before releasing it to the end users.
+Unit Testing : Fist stage of software testing.A unit refers to an individual component of a given software which is developed in order to serve some specific purpose.It is 
+can be an isolated section of the concerned code,procedure of a function within an application,etc.And it is necessarry to ensure that every single such isolated code 
+performs the exact same task for which it was created.This is the 
+purpose of unit testingwhich is nothing but to valide the correctness/successful processing of such isolated units of code.This first stage of software testing is perfomed by 
+
+the developers.For this practise white boxing testing approach is adopted.White box approach consists of modules which help in REDUCING THE TIME DEPENDENCY.Unit
+ testing utilizez all the white box testing techniques : -
+1->Data Flow T
+2->Control Flow T
+3->Branch Coverage T
+4->Statement Coverage T
+5->Decision Coverage T
+Unit testing helps verify INTERAL design,logic and error handling.
+Integration Testing : Second stage of Software testing which is performed after Unit testing and is performed in order to know how these units perform together.Individual 
+modules are put to testing in groups.Units work effectively as individual entities is one thing but are they equally effective when put to operate together?That is the purpose 
+of integration testing and it aims at identifying interface issues b/t modules.BottomUp,TopDown;
+SystemTesting :
+Oh well now that you're willing to shift to testing then without any hesitation then let's learn something about pip as well apart from pyTest and Selenium 
+Python is a simple ,easy to read , flexible programming language which is quite powerful at the same time.It is multi-purpose language which has the potential to be operative in 
+fileds like web-development,Data-science,ML& even devops for writting automation scripts.Python code does not need to b build+platform independent+brave ecosystem(Lib)+
+easy syntex.Specifically in Devops python can create automation scripts&programms to serve the following purposes :
+1->Updating Jira Ticket after Jenkins Build Ran
+2->Trigger Jenkins Job on specific events
+3->Notifying team members on specific events
+4->Performing daily back-ups
+5->Cleaning old Docker images.
+6->Monitoring
+7->Writing Lambda()
+Nexus : is an artifact repository tool where you can store all your artifacts produced by the building tool.Nexus contains Nexus manager which enables a developer to collect,retrieve
+and manage our various artifacts+ it helps in HOSTING OUR REPOSITORIES.4 Ex we have Maven Central Repositories where we get to have all our dependencies/REQUIRED APIs for 
+the Maven Build.
+SONAR CUBE HELPS IN PERFORMING STATIC CODE ANALYSIS.->QUALITY GATES(are like quality benchmarks or thresholds which define the boundary/limit for bugs/test fails 
+DEVLOPER ---REMOTE CODE REPOSITORY---->GITHUB/CODECOMMIT-----BUILDING+TESTING------>JENKINS/CODEBUILD----QUALITY GATES !PASSED-->DEVLOPERS since the 
+committed code is built and tested in a less time consuming manner the developers don't need to wait for long for test results and bug spotting.
+Also CI/CD pipleline has an alternative service too observed in AWS called the AWS CodePipline
+GitHub :
+sc--pACKAGING--->artifact(jar,exe,war,msi(ofJavaMicroSoftInstaller)MacveNo..This packaging is called building done by a build tool.Ex-Maven 4 java.This artifact is required to be
+	deployed on the server.
+If for some reason the client wishes to accomodate the location of their center on the google map onto their website itself.Then the code that is imported to the Remote repository
+should be accompanied with the corresponding API.API itself is a piece of code which performs a specific task and this code should be included in source code.But the place from 
+where these APIs are fetched can impose a vulnerability to the source code.Therefore one should look for or search these required APIs from authorized sites like search.maven.org
+(GLOBAL MAVEN SERVER)Upon installing Maven it creates a maven local repository(MLR).Where the required APIs are downloaded into.From here these APIs can be 
+included into   
+Task1->Building artifacts
+Task2->Helps avoid vulnerabilities.
+For the apache maven tool the path variable should point to the binary file
+main file-sourceCode
+test file-for unitTesting(mvn test)
+target- compiled files(.class)(mvn compile)
+The dependency tag of the corresponding API tag from maven should be pasted in the ProjectObjectModel.xml file.
+mvn compile copies all the apis into the mavelRemoteRepository which later creates the target folder.Paste the dependency tag inside the dependencies tag of the target file
+Therefore another commit needs to be made
+for the target folder.
+mv test : tests the compiled code by means of some suitable UNIT testing framework.These tests should not require the code be packaged or deployed
+mv package(build successfull all in cmdPrompt)
+integration
+in my EYES CI/CD DEFINES/SYMBOLIZEZ THE NATURE OF DEPLOYMENT INTEGRATION TESTING & DELIVERY CONTINIOUS PORTRAYS THAT least amount of 
+MANUAL EFFORTS ARE REQUIRED(EXCEPT FOR THE DELIVERY SECTION WHICH IS NOT KEPT AUTOMATED AS WE DON'T WANT THE CLIENT TO BE BOMBARDED WITH 
+ARTIFACTS/ EXECUTIBLES )as seen in Devops SDLC model.We see the letters continious before integration, deployment and delivery in CI/CD 
+the C stands for continious which is nothing but the nature of these steps of CI/CD which is happening in a CONTINIOUS MANNER.		ALSO	 C BELOW
+one can C an oblique between CiandCD so it is nothing like either continious integreation is being performed and not the continious delivery or vice versa U C it not just Development or just Operations its DevOps
+We preserve both the expects both the teams working towards the same goal so that all can win at the end .
+ContinuousInegration(unitTesting+Integration)/continiousDelivery set of five stages :
+Cotiniuous INTEGRATION :(as such 5 stages)
+PLUS developers need to wait for long preiods of time to know the test results.The entire source code needs to be devloped at the first place before deploying it to the testing environment+ the time consumed by the testing
+team to indentify bugs and flaws in the source code contributes to the long Unused interwals of time2-> If some bug is encountered it is quite difficult to locate and fix a small bug in the huge src code Another time consuming task
+which gives rise to 3->Delayed Software delivery 4->Infrequent Feedback cycle. To resolve this delayed delivery Continous Integration was introduced.As we know that developers work on the same piece of code and one 
+developer is given only a small chunk of code corresponding to some specific feature is given him/her ;&when such chunks are committed to the local respository they are assigned with a distinct commit id only such small 
+this triggrs auto-build to produce pachakges/artifactssdeployed to the testing environment upon building them into an artifact SO THAT 
+if the testing team encounters a bug causing misbehavior in the app  then spotting the bug could be made possible by recognizing the commit IT.Which would be sufficient to trace/locate and reactify the bug. 
+1->ContiSourceCodeDownload(in the development 1First Instnce of the three by means of Git in the DevInstanceFROM the GitHub+Java should be installed for 3rd process)ALSO downloading of the testing scrpts from 
+concerned RemoteRepository is also performed in the DevInstance itself by means of the respository URL.Although being downloaded in the QA instance these scripts are executed in the QA instance for testing the 
+artifact becuase they are HARD_CODED with the corresponding IPs. ' . when they are downloaded the internal working of the scripts happens just as the testers desire.   
+2->ContiBuild(from the Sc in the github repository of the DevInstance it is build continuously by means of Maven in the sameInstance)
+3->ContiDeploy(Automated)Deploying the artifact which was build/packaged in DevInstance Into the Operations/QA instance is called CotiDeploying in an automated manner.No Dev's manual assisstance reQ
++deploying is performed by Jenkins which is also installed in the DevInstance itself)
+4->ContiTesting-Testers write testing scripts which are run continiously for checking if the deployed artifact is operating w.r.2 the ClientReq or not---CT(ArtiExist in Dev&QA isntance).
+5->Continious Delivery(Manual)However the artifact present in the Dev instance is considered as apt for deployment into the ProdInstance upon successfully passing the testing procedures.Cause it is deployed 
+into the ProdInstance team. ' .CDeliver This second deployment is also performed by Jenkins itself which was installed in the DevInstance. ' .Jenkins can control only the artifact which was build in 
+the Dev instance itself. ' .Only this artifact can be deployed FIRST into QA-Instance SECOND into ProdInstance
+
+Software As a Service 	AGAIN	       	TIME       XPERIENCE	HOW	 
+					JENKINS		,		BAMBOO			&		TEAMCITY			
+                                                                                                                 Alternatives to ABOVE SELF-HOSTED CI/CD TOOLS
+					CIRCLE CI				TRAVIS CI		CODESHIP			
+
+Jenkins : is CI/CD tool which helps in automating the task of building&Release || Delivery)(preq-JRE) 
+Self-contianed(server on its own)
+sudo apt-get install tomcat 
+sudo apt-get install tomcat8-admin for the QA&ProdInstances respectively.However is for Prod
+publicIp:8080 : for both jenkins&tomcat
+Just above the end of the tag
+<user username="training" password="sunilSunil" roles="manager
+manage Jenkins>mangage plugins>available>Deploy to container
+plugin required for deploying across instances : Deploy to container
+**/*.war /=any location *=for all artifacts present
+context path? quenv 4 the time bieng : it helps in defining a proper url to the deployed application
+lost step ?
+private ip would do: because instances are running on the same cloud + private ip are not subjected to any changes even on rebooting the instances.
+Jenkins : java -jar jenkins.war restart requried Not in case of industrial usage.When different entities like Dev Team,Testing or even Client wishes to acess the Jenkins then new users are required 
+to be created.Ex-Ravi Pass;ravi@123 manage Jenkins>Manage Users>Create User>Ravi same credentials + email BUT every user is ==admin users. ' .ROLE BASED AUTHORIZATION is required
+Manage plugins > role based authoization strategy >without restart>
+"  	" configure globl security>Logged-in users can do anything uncheck+check Role-Based Strategy
+Mangage assign roles >GlobalR()	ItemR(Pattern like dev* every job with these intials will be accessible)   Default role-Admin//idea is to offer restrictions to manually created roles at 
+the first place followed by assinging these roles to the corresponding
+user 
+
+Jenkins can have hundreds of roles with plenty of jobs running at the same time increasing the load on Jenkins. ' . some of these jobs should be transferred/distributed to a seconday machine called
+the slave machine(Similar to load balance but the load is not web traffic instead its internal traffic) while the first Development instance serves the role of the master machine.Slave is nothing but 
+a seconday virtual machine launched in order to reduce load off of the master instance.This is how the slave caters to Master.Also for JENKINS PREREQUISITE IS JAVA.
+SecureShellDamon file Notes required Day 16.
+
+
+
+			J	E	N	K	I	N	S	PIPELINE
+
+A jenkins pipeline supports two pipeline formats which is Scripted and declarative
+While Scripted P starts with the word node {instructions for jenins to perform} Declarative pipeline starts with the word pipeline {" "}
+Scripted P uses a DemandSpecificLanguage that is based on Groovy which is a scripting language based on JVM.The Declarative P was developed as an evolution over DSL for capturing even more
+easily the configuration of a project as code
+Parameters of a Jenkinspipeline include pipeline{ agent(where the pipeline would be executed  stages stage('Test'){step{}}. The agent of a pipeline can be specified in the following formats
+agent any : when the first available system/executer summons it.For example when Jenkins is running jobs on a controller machine
+agent { label 'linux' } : when job is required to be run on some specific OS or on some specific server where some software has been installed on purpose
+agent {				docker agent is used when the Pipeline job is to be run on docker container run from image maven which is either present inside the Jenkins server itself or on some other 
+       docker{			server that has docker installed. This is the type of agent used when job is used to build fresh environments					
+	image 'maven'
+	}
+        }
+agent none : used for defering
+
+Environment variables should always be kept uppercase 4 distinguishing purpose can be scopped locally below some specific stage and globally right below the agent section
+For referring to a variable one can use the exact same name of such as MAX_SIZE however in a string value one needs to keep them followed by $env.MAX_SIZE | even "${MAX_SIZE}"
+CurrentBuild is useful for performing dynamic operations by refering to the state of a the build produced or to the one that is still running.These variables are the properties of one such parameter culled currentBuild(cCasing)
+currentBuild.startTimeInMillis
+currentBuild.duration
+currentBuild.currentResult
+
+Parameter Variables are invoked at the time a jenkins pipeline job is invoked .These require an always uppercase name :'I_M_VAR',  defaultValue :,  description :' '
+These are always global and preceded by the keyword parameter and like other variables these are always capital.Following are the types
+string()
+text()
+booleanParam these are represented by a checkMark and are kept as false by default booleanParam(name : 'AGE' , defaultValue : false , description : 'if man then true')
+Choice(name : 'AWS_REGION' , choices: ['us-east-1','us-east-2','us-west-1','us-west-2'],description : 'The defaultValue isn't needed as us-east-1 is as it is the first value in the choices LIST  ')
+password(name : 'PASSWORD' , defaultValue : 'encrypted so u can't read ' , description : 'secure ur architecture ' ) 
+Parameters are required to be run once first before being available .This is done to enable the build with Parameters option .The same happens when you change a parameters defaultValue .
+
+When we are willing to have some manual interaction for some job to be checked for approval before being run we use the keyword when with additional conditions such as
+pipeline {
+agent : any 
+stages {
+stage('TEST'){
+when { branch 'default ' } while working with SCM/VCSystem like Git
+when { environment  name : 'DEPLOY_TO' , value : 'production' }// for checking if the stage has the environment param plus with the specified value or not
+when { expression { params.ENVIRONMENT == | != 'PRODUCTION'} } // for checking if the value of a given param.
+//Also one can even input statements in a stage for pausing the job execution until the time it receives a manual approval from us 
+}
+}
+pipeline{
+agent any 
+stages{
+	stage('TEST')
+{		input message : 'Approve for deployment into the production environment ' , ok : 'Deploy' (else deny)
+
+An input step can be used to pause a triggered pipeline and wait for manual interaction to determine if the pipeline should proceed or abort.
+
+Now for developing a pipeline with 3 stages Test Deploy Report and 3 environments DEV STAGING PRODUCTION which should accept a masked APIKEY as 123ABC along with a CHANGELOG as input
+Also deploy stage should be confined to ony Deploy and the change log should be used as the report content and the environment parameter for the report file
+However this can be done via the snippet generator too by going to the snippet generator right below the pipeline's syntex . Then DeclarativeDirectiveGenerator>Directive choose
+parameters : Parameters then add choices , password and a multiline string parameter
+pipeline{
+	agent any
+	parameters {
+	choice   choices : ['DEVLOPMENT','STAGING','PRODUCTION'] , description : 'which stage would u prefer' , name : 'ENVIRONMENT' 
+	password  defaultValue : '123ABC' , description : 'Set the password ' , name : 'API_KEY' 
+	input defaultValue : "This is the change log " , name : 'CHANGELOG'
+	}
+	stages {
+		stage('TEST')
+			{
+			}
+		stage('DEPLOY')
+			{
+			when ( expresssion {params.ENVIRONMENT=='PRODUCTION'  } }			
+			echo " this stage deploys the aritfact "
+			}
+		stage('REPORT')
+			{echo "This stage generates a report "
+			sh "printf \"${params.CHANGELOG}\">${params.ENIRONMENT}.txt"
+			}
+	      }
+}
+
+In order to increase automation and track changes made to the pipeline definition one can use a SCManagement system such as a VersionControlSystem.Since a Jenkinsfile is a text document one can store it in the 
+Source code repository along with the application code . This means one can implement GitOps for the project too .That is to say this repository will be the single source of truth for the project.With GitOps it becomes 
+possible to review and discuss changes with the team when made to the pipeline before being merged and applied using an automated process .However for this one needs to mention the path of the Jenkinsfile 
+in the SCM which is as such the root/main--changeIt2--->master t2Apart from defining the pipeline defintion one can also mention the 
+project configuration such as tools used , triggers for the project and various options 2
+pipeline{
+options{...}
+triggers{...}
+tools{....}
+stages{...}
+post{....}
+}
+----NOTE---- : there is one more method to attaching our gitHub link to our JenkinsJob which as such doesn't do anything to the job except for creating a link on the interface of this job for moving to and forth b/t Github
+4SCM integration we can use the GitHub hook trigger for GitSCM polling which enables the trigger for Jenkins to respond to a Web hook from GitHub
+Then in the pipeline section choose pipeline script from SCM
+SCM ? section select Git
+Secret Path ? can be kept as default unless the Jenkinsfile is located into some sub-directories
+Repository URL ? past the Github's branch url
+Branch Specifier ? */main not master
+Run the job once so that Jenkins could integrate with GitHub so that reading the configurations from Git is possible.
+Now copy the Jenkins server URL andmove to GitHub
+Settings>Web hook > Add web hook > PayLoad URL > paste the URL ALONG WITH /github-webhook/ suffix
+Content type > appication.json
+Secret
+Events for triggerring to occur > Just the push even >Add webhook Now GitHub would ping the Jenkins server which when successfully done would present a green check mark
+
+When one wishes to store some supporting files and scripts which can be too complex to be build straight into the pipeline.These include the following script cmds 
+Relative Paths			Absolute Paths :
+sh('./scripts/build.sh')(when in a repo)  	sh('/bin/build.sh')
+bat('..\scripts\build.bat')		bat('C:\bin\build.bat')
+Another script build cmd would be dir which takes location as an argument as defined by workspace variable .This tells jenkins to change directory to some specific location where the further instructions
+are required to be performed 
+dir("${env.WORKSPACE}/environments/test"){
+sh(' ' ' 
+     terraform init	
+     terraform plan
+   ' ' ')
+}	
+
+Earlier the increasing load || traffic on deployed applications were solved by increasing the number of the same application by ||y increasing the respective servers in no. 2.Initially applications used
+to be tightly linked/associated/connected/coupled/synchrozied with their respective servers with corresponding OS&CPU specifications.This OS is responsible for executing the code in SERVER.VMs
+and contaiers help in reducing this dependency between the app and the server.However in case of virtual machines the OS remains tightly coupled with the VM. ' . less portable but still helps in 
+running different OS simultaneously on different machines for different apps.VM itself is a software environment which runs on  a physical server mimicing a dedicated hardware.These VMs 
+can run with their own OS in an independent environment.These VMs are run and created by Hypervisors while being hosted on respective OS..But then considering the OS and dependency 
+factors as issues containers come into picture.For every isolation a dedicated OS was required for VMs.Vm follow hardware virtualization approach.Containers on the other hand follow OS
+virtualization approach.Here hypervisors are replaced by container enginesIt has the tendency to encapsulate itself with the OS of the deployed application.Hence it 
+cuts the need to have seperate OS 
+while scaling the architecture.Containers run on VMs.Also containers 
+can be placed on any machine without any priorconfiguration thereby discarding the dependency issues. 		Virtualization refers to the creation of virtual 
+version of machines like OS,
+storage devices|| networking resources.Containerization itself is a lightweight approach to virtualization.
+HENCE NO NEED TO BUY SERVERS ANYMORE,Instead we can can allocate RAM and memory of our own personal laptop or PC as partitions to these virtual servers/machines+ Do these machines provide
+isolation as well?Anyways when people were not willing to compromize the performance of their PCsAndLaptops for sake of these servers CONTAINERS CAME INTO PICTURE WHERE SAME ISOLATION 
+WAS OFFERED WITHOUT COMPROMISING ON HARDWARE RESOURCES  
+PREVIOSLY WHEN VIRUAL MACHINES DIDN'T EXISTED IT WAS POSSIBLE TO MAKE DYNAMIC CHANGES TO SERVERS WHILE THEY WERE BUSY RUNNING. AFTER VIRTUALIZATION the 
+kind of Configuration Management(IaCasAService) offered IMMUTABLITY followed by Reliability.Hence a runnning VM can't be mutated instead a new VM is required to be launched which is quite 
+convinient 2 keeping security in mind.		
+
+Earlier we used to have bare-metal servres which were ordered followed by installing the required softwares in it .Then this physical servers were taken to some data center where it would be attached into some rack
+With virutalization one doesn't need to worry about the presence of enough power in the rack , the BM belongs to nor is it required to perform physical activities such as attaching cables.With VMs there is this physical
+server which has its own OS along with the hypervisor platform which runs the virtual machines by abstracting the physical resources of the corresponding physical server.
+Virtualization may be defined as the process of abstraction of some physical resource so that a virtual versions of the same resource could be produced such that it turns one server into many server .A resource 
+like lets say a storage device.A simple way to 
+conceptualize virtualization is to think of a software that is pretending to be hardware.Virtualization incorporates specialized software which could mimic hardware functionalities
+
+.A virtual machine is not a physical machine instead it is an emulation(reproduction to surpass the PM's performance)of a computer system.These are computer files known as an image which run on top of computer
+hardware over the Hypervisor . Typically are isolated server instances abstracted from the same host-machine's resources via THE HYPERVISOR platform which have
+their own OS system called the guest OS . By means of virtualization one gets to have multiple Guest OS running on top of end-device's host OS without having any need to install additional resource 
+Applications running in a VM share Hardware resources of  storage(Solid State Drive), memeory (Random Access Memory) , 
+network , etc from the host machine .It is kind of  similar to how  a VR environment  replicates the real world.VRs are not 
+physical space instead it is virtual imitation.Still one can perform real world - like activities  such as moving around and interacting with objects .Instead of imitating video games a VM emulates computer system
+functions. With VR you can explore a new environment without leaving home , with VM you can run programmes and store data without even possessing that hardware . 
+
+Types of HyperVisors 
+Native hypervisor : These are built on top of bare metal where virtual machine resources are directed by the type1 hypervisor from VM to the host's hardware Ex KVM
+Hosted hypervisors : Virtual machine resources are programmed on top of Host machine's OS and run against the host's hardware . Ex- VMware workstation , hosted on some CSP
+
+1->One can have multiple virtual servers running on top of the device's physical server whose resources have been virtualized . There by cutting the need to have additional servers
+Moreover there is a VM monitor which creates , deletes and scales virtual machines by creating partitions in the host-machines hardware.
+Creating a simulated version enables the hardware resources to be spereated from from their physical infrastructure
+Cloud computing : Once a virtual resource has been created for a specific physical hardware and cloud service providers destribute such virtual resources to users over the internetEx - DropBox Salesforce and Google Drive
+Software Testing : via virtual machines one can create fully functional software development environments which are quite userful since they are completely seperated from the infrastructure therefore performing testing 
+on them will not affect the rest of the system.
+
+3. Malware investigations. VMs enable malware researchers to test malicious programs in separate environments. Instead of spreading to the rest of the infrastructure, a VM contains the malware for study.
+
+4. Disaster management. You can use a virtual machine to replicate a system in a cloud environment. This replication ensures that if the system is compromised, another version exists to replace it. For example, 
+iPhone users regularly back up their data by syncing their devices with iCloud. The iCloud stores a virtual version of the phone, allowing users to transport their existing data onto a new device in the event 
+of theft or damage.
+
+4. Running programs with incompatible hardware. Suppose you have an old application on your phone. It hasn’t released an update in a few years, but your phone has updated several times since then. Since the application 
+hasn’t been updated with your phone, it may no longer be compatible with your phone’s current operating system (OS). You can use a virtual machine to simulate the previous OS and run the old application there.					                                               Monolithic----->Microservices
+ A cloud architect oversees cloud computing strategies for organizations. They focus on cloud design, management, and maintenance. Cloud architects translate technical requirements into architectural projects, 
+so they must have excellent leadership and communication skills. 
+
+Previously software applictions were built by utilizing a single tier approach such that the constituting components would be combined into a single programme while being developed from a single platform.
+FRONT END BACK END NETWORK DATABASE CHAT FUNCTIONALITY
+Also referred to as a monolithic architecture.Such an architectural approach ceases to be operative when bussiness occurs in an everchanging environment especially when it is difficult to gather 
+complete&exhaustive set of software requirements.When one wishes to update the backend then the entire architecture would require deployment not the backend alone.Similar case is noticed when scaling for 
+a particular component is required.4 instance even when we want the front-end to operate on 25 servers it still would mean scaling the entire monolith as the consituting components are bundled together 
+into a sinlge tier architecture.									.										         A
+
+Problems without VM/Docker/Kubernetes technology  would be scaling.Cause more servers would demand more independent compute,storage and network capacity.
+When an end-device possess a hypervisor platform then it can be used for performing virtual partitions.This is to say that now we don't need to have different servers for the different Operating Systems; 
+Virtual machines offer different applications to operate on the same server. BUT every such application running on the same server would require a dedicated OS , RAM , CPU and network resources.
+instead we can use the storage,compute,etc resrouces of a single end device for producing different virtual machines launched from the hypervisor .What advantage we will have is that now we can have the 
+required Operating Systems in the form of Guest Operating Systems which would operate on the CPU , Storage resources of the host machine.
+Go down for issues with Containerization 
+What if some application running in a VM takes only 260 MB of ram whereas you had assigned it 1GB ; then the remaining section of the ram gets wasted . Plus we are sacrificing our end-device's resources for 
+making the VMs operative.If some high priority task comes into picture which requires higher RAM usage then it would interfare with the efficiency of the App's performance 
+
+		C	O	N	T	A	I	N 	E	R	I	Z	A	T	I	O	N
+
+What makes monolithic apps different from MICROSERVICES(DESTRIBUTED) is the fact that the latter approach involves deploying the constituting components of the overall app as individual apps 
+as LOOSELY COUPLED services , tied together through application integration.(BOOKMARK)Because of these isolation provided to these individual app from the respecrtive container not only can these containers
+operate independently but can ALSO COMMUNICATE yes they can via Network ports ? with each other as well.Plus the problem of package managers has also been solved by Docker since now there is 
+absolutely no need to worry about version dependencies 
+1->We can update a given microservices without causing desruption to the rest of the application
+2->We can scale a given microservice without crashing the rest of the architecture.
+Also the since the components are loosely coupled with each other there exists However this management and communication between outstanding 
+Problems faced with microservices running on individual containers :Scaling increased load should be evenly distributed b/t newly avtivated containersOR if some containers fail then restarting them is needed
+3->Even if the application is not containerized we can still use containers as stable build environments the applications for deployment into QA and Prod 
+4->Apart from
+offering the ease of use containers also provide REPLICATION POSSIBILITES along with this TRUST that the application would work completely fine in the new infrastructure	ALSO 	what if the developers need
+a sandbox like environmentwhere they could test the querries made by the application server and Web -sever to a copy of the original database . In such cases we would require a temporary environment which could be 
+used for this analysis.We can run and stop a given container as and when required from a known state . 
+If for some reason we are willing to consider some previous version of some app instead of the latest one then we can download the base container image from the container repository/registory where it was stored 
+previously.
+
+2->Whenever we wish to patch our system,update our containers then it should be of the type rolling updates, which is done in order to ensure that there is zero donwtime.
+
+Docker : Infrastructur on demand .  .
+Objective/idea is to achieve the same isolation offered by a virtual machine wihthout installing dedicated guest OSs to each isolation, instead from a single HostOS one would be able to manage,launch and 
+scale container from a software called Docker engine.
+
+The way VMs used to virtualize hardware resources of the end-device Docker virtualizez the host-machines OS.Also apart from NOT compromizing 
+end-decvice's resources one can also avoid wastage of resources.Containers sit on top of the hardware of a physical server and share the host-machine's OS kernel along with the binaries and libraries too . Since a container
+have access to these OS resources like the libraries it significantly reduces the need to reproduce the OS code which in turn means that the servers/containers created can operate with multiple work-loads with a single 
+OS installation. Since OS resources like libraries are being shared to the container images this the reason why Container images are light upto MBs in size and are exceptionally fast too.Also one can run multiple 
+applications on different containers lets say for development , testing and deployment while they will operate on the exact same physical server.
+
+There are two types of cotainers which are : 
+(I) Linux containers(LXC) : linux OS level virtualization meant for running multiple isolated linux systems on a single host .
+(II)Docker : started as a project to build single application linux containers made various changes to the linux containers making it portable and flexible to use .Docker is a linux utility which can efficiently create 	
+	, ship and run     container .
+
+
+HOWEVER DOCKER DOES NOT SUPPORT ROLLING UPDATES.IF WE WISH TO PUSH UPDATES TO A RUNNING CONTAINER WE FIRST NEED TO STOP IT OR OTHERWISE LAUNCH A NEW CONTAINER.
+Since rolling updates aren't supported therefore containers are said to be immutable.
+which is the reason why if we willing to have different applications to run on different OS flavours then it is advisable to Go for VM which offer Guest OS 
+
+Speaking of VMs we have hardware virtualization.We have a hypervisor platform which creates partitions in our hardware for instances to come into occurrence.Containers on the other hand virtualize the OS alone
+which helps to create instances on top of look down -----VM-Machine isolation   Container - Process Isolation
+Containers are hosted on the same physical server with the same OS kernel of the host-machine which is shared among the containers whereas VMs possess a host OS as well as a Guest OS for each vm
+Containers are suited for situations when we wish to run different applications while the share the kernel of the exact same OS of the host-machine whereas for applications which require a dedicated OS VM is a com
+patible approach
+Virtualization level : In case of VM we get to see full system virtualization whereas in case of Containers it OS level of virtualization
+Size    :Docker container image is much lighter than a VMI as it does not contain the OS kernel(which estabilishes the communication b/t Hardware&Software)specification like somewhere close to an MB whereas a 
+	VMI can be as big as couple of GB
+Speed :Since Docker images do not contain OS. ' . they are quite faster and take seconds to start whereas a VMI which in requires to boot the OS kernel as well as the application running on top of it
+Scaling : since there is No OS in a container image therefore scaling is much easier than a VMI image and takes less time
+Portability : since container images do not contain any guest OS details therefore they are highly protable and easy to be deployed in whichever environment we want without any compatibility issues which is just 
+	what we face if we wish to migrate a VM as it would requirecompatibility assurance
+Security : since the OS kernle is being shared among the containers therefore the containers have access to the OS sub-system. ' . any defective app on some container can hack the entire Device(!root access&&!super-user
+priviledges allowed for containers) It is therefore advisable to run applications which require such sensitive priviledges in a VM which have thier own Guest OS and security features
+Hardware allocation : It is possible to create more containers on a host-machine than the number of VMs on the same end-device.Cause under-utilization of resources is descouraged in the container method of application 
+		deployment
+Compatibility : VM of any host can run on any OS whereas if your windows <10/older Mac versions then a Linux based docker image would be incompatible with the Windows OS/MacOS Kernel .One needs to check if 
+the host can run Docker natively or not so that it could be ensured that the host is compatible with docker images.When it isn't compatible then it is advisable to download a software called Docker toolBox which abstracts
+away the OS kernel so that it could operate with Docker images
+
+It is always a better option to create a dockerfile out of the current resources present in a given environment/infrastructure which are required for 
+running a given application.This way one use this file for creating a container image which can be stored into some image registory from where it can be pulled/fetched as and when
+required.There after it is possible to create the exact same environment for Test and Prod infrastructures which had the properties for running the so and so application.This approach of creating infrastructure helps the 
+developers to avoid memorizing  all those activities which are initially required to customize an environment so that it could be approved for running a given application.
+
+Developed by Solomon Hykes in 2013.Docker allows developers to stay focussed on the code they work on instead of being worried about environment where the code is being planned to deployed.They continue working
+on the code on their local environment and once this is done and they are ready to ship we can package everything up in as a conatainer  and deploy it in the new infrastructure lets say for testing purposes .Apart from
+offering the ease of use containers also provide REPLICATION POSSIBILITES along with this TRUST that the application would work completely fine in the new infrastructure	ALSO 	what if the developers need
+a sandbox like environmentwhere they could test the querries made by the application server and Web -sever to a copy of the original database . In such cases we would require a temporary environment which could be 
+used for this analysis.We can run and stop a given container as and when required from a known state . 
+If for some reason we are willing to consider some previous version of some app instead of the latest one then we can download the base container image from the container repository/registory where it was stored 
+previously.
+
+
+Docker is the technology which can package softwares(along with its application code ,various modules ,libraries,supporting software component packages , run-times , version dependencies&various other 
+configuration details) together into a file followed  by building an image out of it . Such that this image is ;This package 
+is ready to run in a reliable fashion as a container on any environment.A platform independent shipping tool  . With dockers it is actually like build it once and run it whenever you want like of cource after
+it has been shifted to some container repository/image regsitory like DockerHub/AzureKS/ECS/EKS-> this is a private repository , however one can use a private registory too such as a dockerHub account .One can use The 
+way with VM we had full system virtualization Docker aims at 
+virtualizing the OS alone instead of the other host-machine resouces.This makes it possible to operate the same application on different environments while they run on the same kernel(core of the OS with helps the 
+OS to serve as the interface between the user and software?Look for it. as well as 4 daemon Fast , These environments are light wieght micro-computers which are quarrantined from each other.These operate with 
+	their own OS,CPU,Memory and Network resources by virtualizing the host-machine's Operating Systems.Docker container is a wonderful implementation of micro-services approach towards application
+	deployment.It enables the various components of an application to have a loosely coupled architecture so that an asynchronous communication between these compononents could be achieved.*
+As discussed earlier one doesn't need to be concerned about the version dependencies of the application constituents since there exists fault isolation between them.Even when some deployed component of the application
+ceases to operate then it would not affect the functioning of the other deployed application component running on some other container as they are totally loosely coupled.Docker is the technology which introduced 
+and made the contianer approach popular in the field of 
+application devployment.Docker also intiated the need for an infrastructure which could manage cluster of such containers running altogether, that is to say , orchestration tools like kubernetes . When we deploy a docker
+engine on a kubernetes work node.Docker engine has Server , API for interacting with the server and the CLI for typing docker cmds which can be executed against the server . This server has the following components :
+(I)Docker run-time : which controls the lifecycle of a particular contianer by starting and stopping a container
+(II)Volumes : which make contianers more persistent with respect to the data stored in it.			K8s Volumes
+(III)Network : for the containers									K8s Network
+(IV) Also one creates images from dockerfile via the server						K8 CLI 
+To be honest all what K8 requires is the Run-time component of the Docker server(of the docker engine).And in order to communicate with the Docker engine's run-time K8s had been using dockershim which originally
+existed in the K8s code.Developers had been maintaing and updating the dockershim but now it has been deprecated.This in turn cuts off the docker CLI , API , volumes , network , etc, while still being able to produce,
+scale and remove containers from the Docker run-time which belongs to Docker engine. This reduces the resrouces such as CPU , ram , storage etc , which were required for Kubernetes to be operative . 
+Also the run-time which docker has been using is referred to as containerD which as such is a part of docker daemon which now has been extracted from the daemon so that it could be used as the container run-time 
+for kubernetes cluster. containerD is the second most popular contianer run-time which is now owned by CNCF as a seperate open-source project . It is also used by major CSPs such as EKS , Google Kubernetes engine 
+Third alternative to Docker run-time is Cri-O
+
+For preserving the software contents installed in a given container we can convert the concerned container into a customize image by means of the following to 
+methods :
+docker commit contName imgName
+ : first docker file is reqired created by means of a defined set of keywords. ' .2 step process. However in both of the two methods a base image is needed.
+Dockerfile	A text document that contains commands|set of instructions which one would use on a CLI in order to assemble them up into an image(which contains ur application along with its dependencies 
+.By means of a DockerFile one can specify the series of steps
+Blue	which are required for operating a given application and the details which are required to be met by the environment in which the application will be running .These are like the blue-prints which 
+	describe the kind of container images it can produceSince these files are nothing but text documents , they are easy to be tracked via version control systems and shared among among developers
+while being the same directory as the dockerfile
+docker build -t many/App-Name		//-t for naming in the terminal
+docker images //details of all the images created in the past
+docker rmi 124imageId789
+docker run -p 4000:4000 many/image-name  //when gone to localhost:4000 one gets to see "I love[ docker ]" in the web-browser
+while this process is going on we can move to some other terminal for
+docker ps  //which enlists all the onging containers/processes
+also we can stop a running container by 
+docker stop/start container_id
+docker pull/push image-Name/Id
+FROM - base image
+MANTAINER - organization / author who created the dockerfile
+CMD - specify the initial cmd which is required to executed at the time when the container starts
+ENTRYPOINT - used for specifying the default process that should be executed when the container should start also be used for accepting arguments from the CMD 
+instruction.
+USER - default user who should login into the container
+WORKDIR- specify the default directory of the container
+ADD - downloading files from remote servers + from docker host to container
+COPY - copying files from docker host to the container
+ENV - specifies the environment
+RUN - used for using linux cmds in the contianer --> installing software 
+
+Container image : The commands of a DockerFile are processed during a build process for generating a container image.Docker cmd called docker build is used for executing these cmds of a dockerFile so that it could
+SnapShot		create a container image.Its like a snapshot which contains all the necessarry deatils like runtime information ,dependencies, libraries,configuration , etc . An image may be considered as the collection
+of series of actions and instructions which are required to be performed by the container which is produced by this image.
+Such images are stored on image registories/containerRpositories from where they can fetched/pulled
+	as and when needed.Most popular public image registory includes Docker Hub&ECR.This image can be used in different EnvS like development,testing and even Production.
+Container		A container iamge is used to create a container.A Container is the system process that runs a given image and provides that reproducible run-time environment .Fast , light wieght micro-computers which are quarrantined from each and other.These 
+operate with their own OS,CPU,Memory and Network resources by virtualizing the host-machine's Operating Systems.A container is a method of packaging our application's various modules, required libraries , necesarry
+dependencies and various other configuration details which are required to keep our application operative in a given environment.
+		Docker container is a wonderful implementation of micro-services approach towards application
+		deployment.It enables the various components of an application to have individual loosely coupled architectures so that an asynchronous communication between these compononents could be promoted.
+		This make containers quite portable and easy to b moved around b/t Dev teams and Operations team. ' . both development and deployment becomes quite easy with absolutely no left to say that 
+		it works on my machine .
+Containers can open up a shift in the approach towards the application packaging and deployment .One can perform testing on these containers upon being built ; which in turn contains the artifact .Also containers keep
+the dependency packages along with the application code.Which means the artifact possessed by a container is likely to be in a deployable state which naturally indicates continuous deployment.
+
+Containers run on platforms which support Docker such as EKS , Google Kubernetes Engine and even K8s on EC2.Unlike Docker , Kubernetes supports auto-scaling , auto-load balancing and rolling updates too apart from
+application deployment. Which means an application running on a Kubernetes cluster offers zero downtime to its users and helps in meeting the modern bussiness demands .That is dynamic application management 
+apart from its deployment. These are cloud-native applications running as microservices which offer high availability,fault-tolerance and self-healing becuase they are dynmically managed and scheduled by Kubernetes.
+
+CONAINS LITTLE BIT OF YOUR DEVOPS FOUNDATIONS COURSE CONTENT
+
+Orchestrators : TOOLS THAT HELP IN DEPLOYING AND MANAGING APPLICATIONS IN A DYNAMIC(Even patching should be done on running containers/pods itself so that zero downtime could be made possible
+MANNER. Including bare metal.By means of a container orchestrator one can automatically alter the state of containers present in the cluster in order to meet the incoming modern bussiness needs.These may include
+scaling , load balancing , scheduling deployment of network and storage resources etc,A fully up orchestrator provides a layer of abstraction such that its infrastructure could be kind of disregarded by the developers so
+that the developers could focus more on the code.
+
+Configuration   Managment: to management of the various changes an individual servers by means of software tools.Configuration management was brought about for those huge 
+racks of servers which 
+existed before virtual machines that is CM offered immutability to these servers which is being unable to bring dynamic configuration to a running application.One would have to start absolutely new server which will 
+replace the existing ones.VMs on the other hand offer a dynmaic infrastructure
+auto Scaling and MANUAL load-balancing too for kubernetes
+Deployment
+Self - Healing or configuring an application dynamically along with offering zero downtime
+Cloud-Native ! = Cloud computing.Instead these should be applications which operate on cloud and possess the tendency that they coudl meet these modern bussiness demands
+
+Kubernitees : K----8Letters-----S therefore K8sDonated by Google on 2014 To Cloud Native Computing Foundation.In Greek it means HelmsMan or pilot who drives a ship which is the reason why the symbol also looks like
+the steering wheel of ship.KUBERNETES IS A CLOUD AGNOSTIC TECHNOLOGY THAT ALLOWS US TO HAVE CONTAINERS ON ANY CLOUD PLATFORM.It is the orchestration solution offered by Google.It is 
+a container agnostic tool which 
+AJAY DEVGAN STANDING ON 2 CARS VIA THE DRIVER'S AND CO-DRIVER'S? seet windows 
+Every container would be inside a pod which is nothing but the atomic/smallest unit of Kubernetes.It is because Kubernetes can't undestand continers.As said Kubernetes is an 
+Orchestration tool which requries containers to operate withThe way Docker is a container tech that configures , builds and destributes an isolated environment for applications ; Kubernetes is the infrastructure/ecosystem 
+for managing a cluster of such containers grouped together as a pod.One gets to find docker container for providing isolated environments to the various components of an applications such as databases/servers etc,Also 
+one gets to find containers in the CI process whereas an application is bundled together along with its dependencies , libraries , modules together in the form of a package called DockerFile/image? which is then pushed
+to a contaner repository/image registory.From here the images are pulled into a Kubernetes environment where these servers are launched as a cluster of containers called pods.Now the same containers would be able to
+have rolling updates enabled		HYPERVISOR-------DOCKER ENGINE--------KUBERNETES ENGINE ----------DOCKER(4 DOCKER SWARM where instead of Kubeletes we have DDaemons)
+in case of Kubernetes we get to see Kubernetes engine which configures, launches , destroys and scales physical , virtual servers to create a cluster where as such docker containers are running.One can destribute these
+containers across those servers as one wishes where each such service is an independent application contianer . The kubernetes service which enables docker to be operative on these servers is kubelet such that each 
+node in a kubernetes cluster has a kubelet . An alternative to Kubernetes is Docker Swarm which is another contianer orchestration tool where we have docker daemons and instead of Kubernetes engine we have
+Docker which spin the nodes Comparison b/t the 2 includes :
+
+Kubernetes is little bit more complex for installation while Docker Swarm is quite easy
+Kubernetes is more complex and is powerful too whereas Docker Swarm is lightweight , easy to use but has limited functionality
+Kubernetes supports auto-scaling whereas one needs to do that manually
+Kubernetes supports built-in monitoring whereas Docker-Swarm relies on third party tools 4 the same
+In Kubernetes  one needs to perform load-balancing manually whereas Docker-Swarm supports Auto-load balancing
+With Kubernets one needs to learn KubeCTL while with Docker Swarm the same Docker CLI is sufficient
+A pod can contain multiple containers.Pods don't run on the master machine(unlike Docker Swarm where load balancing was performed b/t muliple managers instead it  run on Kubernetes nodes.
+
+Kubernetes is an orchestration framework which helps in automating deployment , scaling and managing of applications which run on containerized environments . With the growing popularty
+Kubernetes is not just a container orchestrator as it provides facilities like load balancing and volumes 4 the apps running on kubernetes.Upon scaling an app one can equally destribute the traffic between them via the
+load balancing feature offered by kubernetes . Also by means of volumes one can attach some specified disk - space to each of these kubernestes nodes for operations being performed.
+Applications running on kubernetes  can be operated on various CSP Where scaling them dynamically is quite easy.Not only does it support the various CSPs but it is also compatible with migration of the particular 
+application to some different Cloud Service Provider
+Also for security reasons kubernetes offeres Service discovery logs and Secrets too for securely storing username and password details.
+Does this mean that we can' our Docker images in Kubernetes ? Well one can do that by means of the Open Container Initiative .Kubernetes allows u to run variousContainer D and Container RunTime Interface
+Control Panel served by the master node Coordinates the cluster 
+Nodes : run the containers
+Logical units of 
+1->Master Node()
+(i)Yaml File mentioning details no of minions ->no .  of pods->of container each pod of Kube-API(Receptionist)server submitted always to the Contro.l Panel(never the node)
+(ii)Kube-Scheduler will create pods AND operates in integration with minion's kublet
+(iii) Ectd : information about the  cluster store where infro would be stored as metadeta like Key:value (pod->continaer->Images)
+(iv)ControlManager:ensures that for every second Actual State is the same as the Desired State
+2->Nodes Or Minions 
+(i)Kubelet :Only component which listens to the master branch's KUBE-SCHEDULER and is referred to as Agent that creates containers via the container engine
+(ii)(Kube-Proxy):Assigns IP addresses to Pods
+
+
+Ansible------>correspoding Jenkins Jobs
+
+Nexus is yet another version control system(4Artifacts)because GtHub finds it difficult to do the same for .mp3 files or some 1GB or binary files 
+What to do when 100 virtual machines are required with different hardware specifications then the 3rd step would not help where we could simply mention the number of instances as 100 and 
+would work.CloudFormation,Heat,AnsibleSaltStack and Terraform.
+
+Ansible is an opensource(src of this tool was kept open to the general public)configuration management,software provisioning and application deployment tool which introduces automation for performing various IT 
+tasks. These tasks include creating new groups adding users to them assigning permissions to these users, performing
+Intalling specific applications like lets say Nagios(For monitoring all the APPservers it should be present in all the servers+updating It as&when we come across new releases , Apache 4 WEB servers Backups @Morning
+as well as in the evening for both the APP and  WEB servers . Or may be changing Network rules such as FireWall settings for all the servers to Cut the chase Operations being performed on these servers within a Data
+Center were executing in a manual manner.backups , scheduling system reboots , updates , etc. If these activities are being performed on a single server then a single SSH connection would have been sufficient.But when the number increases lests say for loads of 
+traffic reasons then one 
+would need a tool which could perform these activities on a comparitively more time efficient manner . PACKAGE MANAGERS which could manage the various version depenedencies required for a given app to be 
+operative.
+This is the point where automation is required for configuration management.Written by Michael Deehan and 
+acquired by RedHat in the year 2015 Ansible  aims at changing the state of a given server to the state that is desired by the user. ' .Ansible performs this automation in the following ways
+1->Configuration /installation/Deployment and Provisioning activities can be performed via a single YAML file instead of manual or shell scripts 
+If automation alone was the concern then scripting alone couldn't solve the problem cause it is a difficult thing to master + if the developer who creates a python/shell script
+for performing updates, scheduling reboots etc , leaves the company then his replacement would have to understand his script first .
+2->Centralized management : one can change the state of a given group of servers from a single centralized location , ur end-device itself.All it requires is python to be installed on the target and the controller nodes.
+3->Agentless : One doesn't even need to isntall ansible on the managed nodes/target servers. That is to say the only device which requires Ansible for configuration Management is the centralized location the end device alone .This be
+cause ansible is agentless . ' . Once a passwordless ssh has been estabilished b/t the controller node /ansible server and the nodes there is absolutely no problem of version UN-compatibility for ansible between the 
+end -device and the servers.
+3->Idempotent : that is to say Ansible brings a given group of servers only and only to the state which is desired by the user no matter how many number of times it is made to do so.Moreover , while performing such management activities on a particular 
+server it ensures that the other servers remain intact.
+Re-use the same YAML file multiple times on different environments while creating the exact same infrastructure.   
+Ansible operates with modules which are nothing but small programmes designed to perform those tasks which would change the state of a given server.These modules are pushed into the servers from the control 
+machine where they perform the mentioned tasks and once these task(S) are finished the modules disappear.These modules are designed to perform quite granular in nature that is to say that a module can perform one task at a time. From OS to the various CSPsAnsible has a variety of 
+modules the one which i used was
+Since Modules are granular one would need a number of'em to perform multiple tasks and when an order is required between these tasks then Playbooks come into picture.Modules are grouped together in the required 
+order and such groups are kept in tasks.Tasks ensure these modules are executed with arguments.Group of such tasks consitute a playbook.
+Disadvantage : Ansible can't be used for installing Operating System.It can b used for managing an application which runs on top of a pre-installed OS but it can't install the OS at the first place.
+
+Terraform(Open SourcehashiCorp in 2014)- An infrastructure as code service which provides infrastructure provisioning feature/facility in an automated manner,It helps in managing(&configuringAnsible) our infrastructure,
+the platform involved&the correspoding services running on that platform.This is done by utilizing some declarative language where one doesn't need to define each step for the automation process
+instead only the end result/goal/objective is required to be specified rest is the tool's role.One can even deploy application to some required environment within the infrastructure(Tera+Ansi)
+Despite both being InfraAsCode services , Terraform and ansible have differences which include the following
+@Terraform is mainly used as an infrastructure provisioning tool whereas ansible is mainly used for configuring that infrastructure such as installing/updating software+deploying apps
+@Being relatively new Terraform is dynamically changing and is quite advanced in terms of orchtestration ; ansible on the other hand is much more matured
+Key Value Array Lists Dictionary
+-----  :	NOTE	: ------ Every single constiuting module of a .tf file should have a definite provider cause other external consumers need these providers in  order to use the modules
+avoid making manual adjustments into .tfstate file otherwise bugs may arise.Instead use terraform cmds to do so.It ensres that Actual_State==Desired_State by suggesting plans for the same
+Also while working in a team this .tfstate file(initally created in local host) can be saved in a storage(s3,Azure blob storage,GCStorage)
+When one wishes to avoid terraform conflicts&corruption arising from cmd terraform apply being executed concurrently at the same time one can adopt terraform state file locking as offered by DynamoDB(not
+all CSPs)This would lock a given state file until it is completely finished and later is un-locked for the next update.Hence it prevents concurrent runs to your state file.PLUS VERSIONING SHOULD BE USED 
+FOR BACKUPs Also one should have sepreate individual .tfstate files for Dev,Test/QA&Prod environments all stored with versioning in cloud storages
+
+				GITOPS	and 	Env0 for .tf and DevOps
+GitOps is a method of implementing Continious Delivery to cloud native applications 
+
+It should not be quite easy for anyone to commit changes to your terraform code. ' . one should perform CI for tf codes as well in order to ensure quality IinfraCode
+Even TF applies should done in a C D manner
+BEST PRACTISE : replicate the concerned application on-premises for trouble shootingby identifying which team(Developers/
+Third party monitoring tool : Nagios.Provides metrics like memory,compute utilitzation
+Monolithic Applications are those  software applicatoins designed to manage mulitple related tasks parallally.These are complex single-tiered Apps which contains serveral tightly coupled 
+application components. 
+together into a single bundle such that the user-interface and data access code are combined together into a single platform from a single platform.Mutating such applications is a tedious 
+task cuase any change made in any particular constituent would require compiling and testing the entire platform WHICH means adopting some specific language for the code would affect the entire
+monolith as a whole.This is the reason why monolithic applications go against the agile approach is theThat is to say any chage/update in the code base should be followed by a new
+build and automated deployment into the Testing followed by manual delivery into the Production enivronment.   .
+
+Terraform : Current state is nothing but the current infrastructure which is at present running.Whereas desired state is what you wish to see as a change and at present it is in the form of a terraform code. ' . if you change type of EC2
+created from T code then it will be first observed in T statefile upon T refresh and upon T plan+yes for change approval--> it will be reflected in The terraform code.i e . 02+,12change,02 destroy.Overall Actual State=Desired State.
+Exact same case with Security grp changes of the EC2 T refresh changes reflected in the State file---> T plan .But because SG was not specified in the Desired state as mentioned in the Terraform code therefore no changes no destructions.
+That is Terraform will not plan(T plan cmd)to revert the changes. 
+Cross Resource Attributes : When the output of one resource acts as the input for some other resource 2b operative
++++++++++++++++++++++++++Things to Do++++++++++++++++++++++++++++
+Automated Testing&Rollback
+Selective Deployment
+Canary/Rolling Deployment
+Shared account to bussiness accounts
+Manual approval
+Security Checks
+*DevOps E ngineer*: (Build&Release)
+•	Strong knowledge and experience of cloud infrastructure (preferably AWS), systems, network design, and cloud migration projects. 
+•	Strong knowledge and understanding of CI/CD processes and tools (Jenkins) is a must. The ability to write groovy DSLs is an added advantage. 
+•	Strong knowledge of Shell, along with one more language (Python, Groovy, or Java). -- for Infra codification job profile
+•	Strong prior experience using automation tools like Ansible, Terraform, Packer, etc.
+•	Knowledge  in Docker and kubernetes (EKS/ AKS) - (For some job profiles)
+•	Prometheus management at Scale -- Thanos, Alert Manager, -- we handle over a million metric per second . 
+•	Architect systems, infrastructure & platforms using Linux and Cloud Services [Amazon Web Services] 
+Lifecycle
+Lambda
+Unit Testing
+Jobs confiugred before hand
+Continious changing objectives of .war
+Devops Project Doubt : Sir as taught by you the word continious in CI/CD signifies a response to changes made in the source code present in the corresponding local->remote repository.I wanted to know 
+that with respect to the java applications code pulled from the remote repository into the devlopment environment ->specifically what changes are made to this source code?What does the source code 
+do what action does the executble/artifact perform that it requires changes in the source code and corresponding new testing scripts.A new CI/CD pipeline would be generated if new code is pulled 
+into the  DevInstance from repository.What is the need to that how is the artifact generated lacks in performance that it requires updates and changes in the src code.What does the code do how does 
+the artifact implmenet it?Please let me know
+
+++++++++++++++++++++++++++++++++++++++++Pending Skills&Responsibilities++++++++++++++++++++++++++++++++++++++++++++
+
+DevOps Introduction
+Why DevOps and roles and responsibilities
+How DevOps and Cloud exists in today’s world
+What is Continuous Integration and Delivery how it’s related to DevOps
+Linux
+Linux Introduction, Principles and Linux Distro
+Command line utilities and basic commands Linux File system introduction
+Text Editors
+Filters and Redirections
+Users & Groups and Permissions
+Git
+What is version control system?
+Compare Git with others and why is it called Distributed Version Control System? Create an Local Git Repository
+Operations like commit, pull, push, clone, merge, cherry pick and rebase Git Branches and how to use
+GitHub a remote repository
+Maven
+What are build tools?
+GAV Coordinates in Maven
+Build a Java Application using Maven Dependency Management
+Plugins as a building block in maven build
+Building and deploying java web application using maven
+Jenkins
+Introduction to Continuous Integration.
+Build & Release and relation with DevOps Why continuous integration
+Jenkins introduction and setup Jenkins projects/jobs
+Jenkins plugins
+Jenkins administration:
+Users Nodes/Salves Managing plugins
+Managing Software Versions
+Docker
+Introduction to Docker
+Virtualization and Containerization differences
+Docker Installation
+Docker CLI
+Run your first Docker Container
+Copy Files in the Docker Image
+Docker, Maven and Jenkins
+Tag and share docker images
+Database Installation with Docker Image
+Learning DockerFile
+Creating our own Docker Image
+Docker Networking
+Ansible
+Ansible Introduction & Setup
+Foundation
+Modules and Ad hoc Commands YML Scripting
+PlayBook for CM automation Roles
+Kubernetes
+Introduction to Kubernetes
+Understanding the components of Kubernetes Master ( Control Plane )
+Understanding the components of Kubernetes Node ( Minion )
+Working with Pod
+Elements used in definition file.
+Creating Replication Controller.
+Creating Replica Set.
+Working with Deployment Object
+9. Nagios
+     Creating Service Object
+Accenture is a global professional services company with leading capabilities in digital, cloud and security. Combining unmatched experience and specialized skills across more than 40 industries, we offer Strategy and Consulting, Interactive, Technology and Operations services-all powered by the world's largest network of Advanced Technology and Intelligent Operations centres. Our 624,000 people deliver on the promise of technology and human ingenuity every day, serving clients in more than 120 countries. We embrace the power of change to create value and shared success for our clients, people, shareholders, partners, and communities. Visit us at www.accenture.com.
+
+Role Overview
+Join our team that is developing, designing and maintaining technologies that improve the way our clients and the world works. Working in challenging and dynamic environments, using their versatility to create and support technology solutions that meet client requirements from analysis to implementation
+
+What would you do? 
+
+As an Associate Software Engineer you would largely be involved in:
+Design, build, test, assemble, support and configure application using business requirements
+Understand business drivers that will impact performance and deliver software to those expectations
+Bake technology trends into solutions; Participate in the development of automation solutions, new functionality and technologies and integrate them in existing solutions
+Responsible for incident resolution and support extended to customers through voice interaction/email/chat/remote support
+What we need?
+
+We would love you to have:
+Ability to anticipate and resolve business issues with agility
+Multi-disciplinary and versatile with the aptitude to learn and apply new skills faster
+Good analytical and problem-solving skills and proficient in verbal and communication skills
+Deliver code, to time and quality expectations and participate in peer reviews
+Take ownership of the successful implementation of the solution
+Support infrastructure operations and /or manage delivery for IT production system and services
+Flexibility to relocate for project deployment to any part of India and work in 24X7 shifts basis business requirement
+Also, the below mentioned will be preferred:
+Basic understanding of ABAP Development on HANA, CDS, AMDP, Performance Analysis
+Experience or knowledge in configuration, customization of Salesforce.com applications
+Good working knowledge in J2EE and full-stack development
+Knowledge and development experience of .NET (ASP.NET/ASP.NET MVC)
+Test automation engineering
+Creation of test designs, test processes, test cases and test data
+Apply business and functional knowledge including testing standards, guidelines, and testing methodology to meet the teams overall test objectives
+Responsible for designing testing scenarios for usability testing
+Prepare all reports related to software testing carried out
+Analyze the results and then submit the observations to the development team
+Accenture has not authorized any agency, company or individual to either collect money or arrive on any monetary arrangement in exchange for a job at Accenture.  Accenture's  criterion  for  hiring  candidates  is merit. Any  agency, company or individual offering employment with Accenture in exchange for money is misrepresenting their relationship with Accenture, which has not authorized any such action. If you are approached by any entity or individuals who demand money or any other form of compensation in return for a job offer at Accenture - even if they present themselves as representatives or employees of Accenture - please send the details to Accenture Business Ethics Line https://businessethicsIine.com/accenture
+
+				NTT
+
+Microservices, DynamoDB, Kubernetes/Docker, API Gateway, Terraform, AWS CLI, Load balancer, S3 Bucket
+•	Certifications - AWS Cloud Practitioner OR Certified Cloud Developer OR Solution Architect
+•	Java Core, advanced Java (J2EE), JavaScript 
+•	ExtJS (or AngularJS)
+•	Basic Knowledge of RDBMS and Oracle
+•	Hibernate
+•	REST Services
+•	Application server knowledge for Tomcat and Payara
